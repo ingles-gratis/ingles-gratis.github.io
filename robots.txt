@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://intercambio-idiomas.eu/sitemap.xml
